@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__logo {
+  margin-top: 34px;
+}
+
+.header__title {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 96px;
+}
+
+.header__subtitle {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 30px;
+}
+
+.header__image {
+}
