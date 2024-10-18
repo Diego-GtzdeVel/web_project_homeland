@@ -7,19 +7,31 @@
 
 .header__logo {
   margin-top: 34px;
+  margin-bottom: 91px;
 }
 
-.header__title {
+.header__heading {
   font-family: "Inter", Arial, sans-serif;
   font-weight: bold;
   font-size: 96px;
+  line-height: 1.04;
+  text-align: center;
+  max-width: 720px;
+  max-height: 200px;
 }
 
-.header__subtitle {
+.header__subheading {
   font-family: "Inter", Arial, sans-serif;
   font-weight: normal;
   font-size: 30px;
+  line-height: 1.2;
+  text-align: center;
+  max-width: 720px;
+  max-height: 72px;
 }
 
 .header__image {
+  max-width: 984px;
+  max-height: 615px;
+  margin-top: 64px;
 }

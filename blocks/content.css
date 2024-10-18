@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  max-width: 830px;
+  max-height: 607px;
+  margin: 92px auto 132px 146px;
+}
+
+.content__title {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: bold;
+  text-align: left;
+  font-size: 54px;
+  line-height: 1.07;
+  max-width: 830px;
+  max-height: 174px;
+}
+
+.content__quote {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.4;
+  text-align: left;
+  max-width: 738px;
+  max-height: 135.6px;
+  margin-top: 40px;
+}
+
+.content__quote-author {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.4;
+  text-align: right;
+  max-width: 732px;
+  max-height: 34px;
+  margin-top: 10px;
+}
+
+.content__text {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.625;
+  text-align: left;
+  max-width: 722px;
+  max-height: 181.5px;
+  margin-top: 32px;
+}

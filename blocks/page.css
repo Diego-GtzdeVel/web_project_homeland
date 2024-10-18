@@ -3,10 +3,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 1600px;
-  min-width: 1100px;
+  max-width: 100%;
+  max-height: 100%;
   background-color: #2a2c2f;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
   color: #ffffff;
 }
